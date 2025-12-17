@@ -66,9 +66,3 @@ Impact :
 - Méthodologies de durcissement système  
 
 ---
-
-## Ajouter le rapport PDF dans le dépôt  
-Après avoir ajouté le fichier PDF dans ton dépôt GitHub, utilise ce lien :
-
-```markdown
-[Voir le rapport PDF complet](./Security-risk-assessment-report.pdf)
